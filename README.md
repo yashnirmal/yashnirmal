@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @yashnirmal
 - 👀 I’m interested in building stuff by coding
 - 🌱 I’m currently learning reactJs and web3
-- 📫 How to reach me through my twitter https://twitter.com/YashNirmal42
+- 📫 You can reach me through my twitter : https://twitter.com/YashNirmal42
+- 📫 also through my LinkedIn : https://www.linkedin.com/in/yash-nirmal-062b68220/
+- 🌐 You can check my work through my portfolio website : https://yash-nirmal.netlify.app/
