@@ -1,4 +1,4 @@
-
+<h2>Hi, I am a fullstack web developer</h2>
 
 - 👋 Hi, I’m @yashnirmal
 - 👀 I’m interested in building stuff by coding
@@ -7,7 +7,10 @@
 - 📫 also through my LinkedIn : https://www.linkedin.com/in/yash-nirmal-062b68220/
 - 🌐 You can check my work through my portfolio website : https://yash-nirmal.netlify.app/
 
+## Socails
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=yashnirmal)
 
+<h2>Stats</h2>
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnirmal&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yashnirmal" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashnirmal&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yashnirmal" />
