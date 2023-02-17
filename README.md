@@ -30,10 +30,16 @@
 <a href="https://twitter.com/YashNirmal42" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/64/733/733579.png">
 </a>
+<a href="https://www.linkedin.com/in/yash-nirmal-062b68220/" target="blank">
+<img src="https://cdn-icons-png.flaticon.com/64/3536/3536505.png">
+</a>
+<a href="https://www.instagram.com/yashnirmal_15/" target="blank">
+<img src="https://cdn-icons-png.flaticon.com/64/2111/2111463.png">
+</a>
 
 ## Blog
-<a href="" target="_blank">
-
+<a href="https://yashnirmal.hashnode.dev/" target="blank">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" style="height:64px; width:fit;">
 </a>
 
 <h2>Stats</h2>
