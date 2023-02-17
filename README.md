@@ -38,11 +38,9 @@
 </a>
 
 ## Blog
-<div style="background-color:white; width:fit; height:fit;">
 <a href="https://yashnirmal.hashnode.dev/" target="blank">
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" style="height:64px; width:fit;">
 </a>
-</div>
 
 <h2>Stats</h2>
 <p align="center">
@@ -50,3 +48,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashnirmal&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yashnirmal" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnirmal&theme=highcontrast&hide_border=true" alt="yashnirmal" />
 </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
