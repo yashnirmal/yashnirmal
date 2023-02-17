@@ -38,7 +38,7 @@
 </a>
 
 ## Blog
-<a href="https://yashnirmal.hashnode.dev/" target="blank">
+<a href="https://yashnirmal.hashnode.dev/" target="blank" style="background-color:white;">
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" style="height:64px; width:fit;">
 </a>
 
