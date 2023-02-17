@@ -27,8 +27,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Socials
-<a href="" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/4494/4494477.png">
+<a href="https://twitter.com/YashNirmal42" target="blank">
+<img src="https://cdn-icons-png.flaticon.com/64/733/733579.png">
 </a>
 
 ## Blog
