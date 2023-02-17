@@ -49,5 +49,5 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnirmal&theme=highcontrast&hide_border=true" alt="yashnirmal" />
 </p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+START_SECTION:activity
+END_SECTION:activity
