@@ -1,11 +1,11 @@
 <h2>Hi, I am a Fullstack Web Developer</h2>
 
 - 👋 Hi, I’m @yashnirmal
-- 👀 I’m interested in building stuff by coding
+- 👀 I like to build stuff
 - 🌱 I’m currently learning reactJs and web3
-- 📫 You can reach me through my twitter : https://twitter.com/YashNirmal42
-- 📫 also through my LinkedIn : https://www.linkedin.com/in/yash-nirmal-062b68220/
-- 🌐 You can check my work through my portfolio website : https://yash-nirmal.netlify.app/
+- 📫 Reach me through my twitter : https://twitter.com/YashNirmal42
+- 📫 Here is my LinkedIn too : https://www.linkedin.com/in/yash-nirmal-062b68220/
+- 🌐 You can check my work through my portfolio website : https://yashnirmal.vercel.app/
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
