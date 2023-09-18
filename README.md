@@ -4,7 +4,7 @@
 - 👀 I like to build stuff
 - 🌱 I’m currently learning reactJs and web3
 - 📫 Reach me through my twitter : https://twitter.com/YashNirmal42
-- 📫 Here is my LinkedIn too : https://www.linkedin.com/in/yash-nirmal-062b68220/
+- 📫 or my LinkedIn here : https://www.linkedin.com/in/yash-nirmal-062b68220/
 - 🌐 You can check my work through my portfolio website : https://yashnirmal.vercel.app/
 
 ## Programming Languages
