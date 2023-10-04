@@ -3,9 +3,10 @@
 - 👋 Hi, I’m @yashnirmal
 - 👀 I like to build stuff
 - 🌱 I’m currently learning reactJs and web3
-- 📫 Reach me through my twitter : https://twitter.com/YashNirmalDev
-- 📫 or my LinkedIn here : https://www.linkedin.com/in/yash-nirmal-062b68220/
-- 🌐 You can check my work through my portfolio website : https://yashnirmal.vercel.app/
+- 📫 Reach me through my twitter : twitter.com/YashNirmalDev
+- 📫 or my LinkedIn here : linkedin.com/in/yash-nirmal-062b68220
+- 💻 or maybe check my blogs here : yashnirmal.hashnode.dev
+- 🌐 You can check my work through my portfolio website : yashnirmal.vercel.app
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
