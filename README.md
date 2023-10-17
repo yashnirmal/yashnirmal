@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @yashnirmal
 - 👀 I like to build stuff
-- 🌱 I’m currently learning reactJs and web3
 - 📫 Reach me through my twitter : https://twitter.com/YashNirmalDev
 - 📫 or my LinkedIn here : https://linkedin.com/in/yash-nirmal-062b68220
 - 💻 or maybe check my blogs here : https://yashnirmal.hashnode.dev
