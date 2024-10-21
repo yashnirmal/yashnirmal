@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Socials
-<a href="https://twitter.com/YashNirmal42" target="blank">
+<a href="https://twitter.com/YashNirmalDev" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/64/733/733579.png">
 </a>
 <a href="https://www.linkedin.com/in/yash-nirmal-062b68220/" target="blank">
